@@ -14,4 +14,4 @@ User stories:
 
 Instructions from freeCodeCamp https://www.freecodecamp.com/challenges/file-metadata-microservice
 
-http://file-upload-ahmed.herokuapp.com
+https://file-metadata-ahmed.herokuapp.com/
