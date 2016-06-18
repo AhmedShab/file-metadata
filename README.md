@@ -14,12 +14,4 @@ User stories:
 
 Instructions from freeCodeCamp https://www.freecodecamp.com/challenges/file-metadata-microservice
 
-http://image-search-ahmed.herokuapp.com/api/imagesearch/{search example}
-
-http://image-search-ahmed.herokuapp.com/api/latest/imagesearch/
-
-E.G:
-
-http://image-search-ahmed.herokuapp.com/api/imagesearch/final fantasy
-
-http://image-search-ahmed.herokuapp.com/api/latest/imagesearch/
+http://file-upload-ahmed.herokuapp.com
